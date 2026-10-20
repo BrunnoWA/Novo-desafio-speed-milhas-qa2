@@ -1,0 +1,4 @@
+﻿?? src/orders/dto/create-order.schema.spec.ts
+?? src/pricing/service-fee.spec.ts
+?? src/search/dto/search-request.schema.spec.ts
+?? ../qa/evidencias/
